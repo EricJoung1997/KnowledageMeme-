@@ -1,0 +1,7 @@
+1.自动综述.ipynb是主文件，全部运行就会出结果
+
+2.其他文件都是封装的功能函数
+
+3.predict.py是预测函数(前期训练的BERT+Dict模型太大了就没有下载使用)，这里没有使用
+
+4.data下的all_data_with_singleKM.xlsx是本次用到的数据
